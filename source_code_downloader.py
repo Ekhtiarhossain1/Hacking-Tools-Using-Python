@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 import urllib.request as ur
 import pyfiglet
 from termcolor import colored
